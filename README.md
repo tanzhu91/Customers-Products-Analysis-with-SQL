@@ -1,4 +1,4 @@
-# Customer and Products Analysis using SQLlite.
+# Customer and Products Analysis using SQLite.
 
 ## This Project aims to answer a few key questions. Which are the the top customers by Revenue ? Which are the products low in stock and which are the top sold products.
 
