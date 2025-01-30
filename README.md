@@ -1,6 +1,6 @@
 # Customer and Products Analysis using SQLite.
 
-## This Project aims to answer a few key questions. Which are the the top customers by Revenue ? Which are the products low in stock and which are the top sold products.
+## This Project aims to answer a few key questions. Which are the top customers by Revenue ? Which are the products low in stock and which are the top sold products.
 
 ![image](https://github.com/user-attachments/assets/cea4bbdf-e3b2-4786-8e0b-4a98d12fdc8f)
 
